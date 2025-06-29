@@ -1,6 +1,8 @@
-Airbnb Clone Property Booking Flowchart
+###Airbnb Clone Property Booking Flowchart
+
 Objective
 This document presents a flowchart for the property booking process in the Airbnb Clone backend, visualizing the steps and data flow from a guest submitting a booking request to the final confirmation or rejection. The flowchart is created using Mermaid syntax and can be imported into Draw.io for visualization and export as a PNG.
+
 Process Overview
 The property booking process involves a Guest submitting a booking request, the system validating the request, processing payment, creating a booking record, and sending notifications. The flowchart covers:
 
@@ -15,6 +17,7 @@ Flowchart Explanation
 
 Start: The Guest submits a booking request with property ID, start/end dates, and payment details.
 Processes:
+
 Authenticate Guest: Verifies the Guest’s JWT to ensure they are logged in.
 Retrieve Property Details: Fetches property data (e.g., price per night) from the Properties data store.
 Check Date Availability: Validates that the requested dates do not conflict with existing bookings in the Bookings data store.
