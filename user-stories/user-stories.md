@@ -1,4 +1,4 @@
-User Stories
+##User Stories
 Based on the use case diagram, I’ll select the following core use cases to convert into user stories: User Registration, Book Property, Make Payment, Leave Review, and Manage System. These cover key interactions across Guest, Host, and Admin roles.
 
 User Registration:
@@ -14,12 +14,12 @@ User Story: As an Admin, I want to monitor and manage users, listings, bookings,
 Document Content
 The Markdown file will list the user stories and include instructions for saving and committing to the GitHub repository.
 
-Airbnb Clone User Stories
+##Airbnb Clone User Stories
 Objective
 This document translates key interactions from the Airbnb Clone backend use case diagram into user stories, capturing the core functionalities for Guests, Hosts, and Admins. The user stories follow the format: “As a [role], I want to [action] so that [benefit].”
 
-User Stories
-User Registration
+##User Stories
+#User Registration
 
 As a new user, I want to register an account with my email and password or via OAuth (Google/Facebook) so that I can access the platform as a Guest or Host to book or list properties.
 Book Property
