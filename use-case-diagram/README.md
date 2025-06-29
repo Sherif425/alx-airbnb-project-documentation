@@ -28,7 +28,7 @@ Create/Update/Delete Property Listing: Hosts manage their property listings.
 
 Search Properties: Guests search and filter properties by location, price, etc.
 
-https://github.com/Sherif425/alx-airbnb-project-documentation/blob/main/use-case-diagram/use_case.drawio.png
+![alt text](https://github.com/Sherif425/alx-airbnb-project-documentation/blob/main/use-case-diagram/use_case.drawio.png)
 
 
 Book Property: Guests create bookings for available dates.
