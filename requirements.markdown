@@ -255,21 +255,6 @@ This document outlines the technical and functional requirements for three key b
 - Error handling: Log failures, return clear messages.
 - Optimization: Use indexes on `property_id`, `booking_id`.
 
-## Instructions for GitHub Commit
-1. **Save the File**:
-   - Copy the content of this document into a file named `requirements.md`.
-   - Save the file locally.
-2. **Store in GitHub**:
-   - Ensure the `alx-airbnb-project-documentation` repository exists.
-   - Place `requirements.md` in the root directory of the repository.
-   - Commit and push changes:
-     ```bash
-     mv requirements.md alx-airbnb-project-documentation/
-     cd alx-airbnb-project-documentation
-     git add requirements.md
-     git commit -m "Add requirement specifications for Airbnb Clone backend"
-     git push origin main
-     ```
 
 ## Conclusion
 This document provides detailed requirement specifications for User Authentication, Property Management, and Booking System, including API endpoints, input/output formats, validation rules, and performance criteria. The specifications align with the Airbnb Clone’s backend requirements and support a scalable, secure system. The file is ready to be saved as `requirements.md` and committed to the root directory of the `alx-airbnb-project-documentation` repository.
