@@ -28,52 +28,39 @@ Use Cases
 
 The following use cases are derived from the core functionalities:
 
-
-
-
-
 User Registration: Users sign up as Guest or Host, including OAuth options.
-
 
 
 User Login: Users log in via email/password or OAuth.
 
 
-
 Profile Management: Users update their profile details.
-
 
 
 Create/Update/Delete Property Listing: Hosts manage their property listings.
 
 
-
 Search Properties: Guests search and filter properties by location, price, etc.
-
 
 
 Book Property: Guests create bookings for available dates.
 
 
-
 Cancel Booking: Guests or Hosts cancel bookings per policy.
-
 
 
 Make Payment: Guests process payments for bookings.
 
 
-
 Leave Review: Guests rate and comment on properties post-stay.
-
 
 
 Respond to Review: Hosts reply to guest reviews.
 
 
-
 Receive Notifications: Users get email/in-app notifications for bookings, payments, etc.
 
 
-
 Manage System (Admin): Admins monitor and manage users, listings, bookings, and payments.
+
+
